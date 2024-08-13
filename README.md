@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 This Project is Build React + Javascript + Tailwind
 
 [] install all necsessary packages
-use "npm insatll"
+use "npm install"
 
 to run in your local 
 use "npm run dev"
